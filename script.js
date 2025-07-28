@@ -1,16 +1,16 @@
 const kids = [
-  { name: "10yo", color: "#ff8a65" },
-  { name: "8yo", color: "#81c784" },
-  { name: "6yo", color: "#4fc3f7" },
-  { name: "4yo", color: "#ce93d8" },
+  { name: "Isla", color: "#ff8a65" },
+  { name: "Mira", color: "#81c784" },
+  { name: "Oliver", color: "#4fc3f7" },
+  { name: "Emmett", color: "#ce93d8" },
 ];
 
-const dailyTasks = ["Make bed", "Personal task"];
+const dailyTasks = ["Make bed", "Clean bedroom"];
 
 const rotatingTasks = [
   "Wipe counters",
   "Take out trash",
-  "Help feed pet",
+  "Help feed Burt",
   "Clear table",
 ];
 
